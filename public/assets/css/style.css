@@ -1,0 +1,57 @@
+body {
+    background-color: #FAFAD2;
+    font-family: 'Abel', sans-serif,  'Josefin Slab', serif, 'Gudea', sans-serif;
+}
+
+.jumbotron, .panel {
+  background-color: #FAFAD2;
+  border: 0px;
+  padding: 0px;
+}
+
+/* .panel-heading {
+  background-color: #FAFAD2;
+  border: 0px;
+  padding: 0px;
+  font-weight: bold;
+
+
+} */
+
+li {
+  padding: 5px;
+  margin: 5px;
+  color: rgb(41, 125, 153);
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.change-devoured {
+  border-radius: 20%;
+  font-weight: 800;
+  background: #835C3B;
+  color: white;
+}
+
+.delete-burger {
+  border-radius: 20%;
+  color: white;
+  background: darkgray;
+}
+
+.form-group-devoured {
+  margin-bottom: 5px;
+  display: none;
+}
